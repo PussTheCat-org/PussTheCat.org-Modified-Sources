@@ -4,7 +4,7 @@ This instance is provided by [PussTheCat.org](https://pussthecat.org).
 
 Public Matrix discussion and status room of PussTheCat.org: [#pussthecat.org:pussthecat.org](https://matrix.to/#/#pussthecat.org:pussthecat.org).
 
-Donate to support PussTheCat.org: [Here](https://pussthecat.org/about/)
+Donate to support PussTheCat.org: [Here](https://pussthecat.org/donate/)
 
 # About
 
